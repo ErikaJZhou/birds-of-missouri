@@ -1,0 +1,7 @@
+<!-- Noto Sans -->
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
+
+<!-- CSS -->
+font-family: 'Noto Sans', sans-serif;
+
+HEXA #74CFF0 (Robin-egg-like blue)
